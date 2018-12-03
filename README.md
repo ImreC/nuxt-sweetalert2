@@ -1,5 +1,8 @@
-## Nuxt.js
+## Sweetalert for Nuxt.js
 
+Use https://sweetalert2.github.io/ in your next project. Modals, toasters, confirmations, you name it. Pass global options to customize the look and feel. Tested and running in production.
+
+# Getting started
 Install dependencies:
 
 ```bash
