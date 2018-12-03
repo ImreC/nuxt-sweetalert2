@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-sweetalert2",
+  "version": "1.0.0",
+  "description": "A minimal sweetalert2 module based on vue-sweetalert2 with global options ",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImreC/nuxt-sweetalert2.git"
+  },
+  "keywords": [
+    "nuxt",
+    "sweetalert2",
+    "notifications"
+  ],
+  "author": "Imre Gelens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ImreC/nuxt-sweetalert2/issues"
+  },
+  "homepage": "https://github.com/ImreC/nuxt-sweetalert2#readme",
+  "dependencies": {
+    "sweetalert2": "7.x"
+  },
+  "devDependencies": {
+      "babel-core": "^6.26.3",
+      "babel-polyfill": "^6.26.0",
+      "babel-preset-env": "^1.7.0",
+      "babel-preset-stage-3": "^6.24.1",
+      "babel-preset-vue": "^2.0.2",
+      "vue": "^2.5.16"
+  }
+}
