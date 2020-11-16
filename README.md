@@ -1,4 +1,5 @@
-## DEPRECATED: PLEASE USE VUE-SWEETALERT2 AT: https://github.com/avil13/vue-sweetalert2
+# DEPRECATED: PLEASE USE VUE-SWEETALERT2 AT: https://github.com/avil13/vue-sweetalert2
+
 
 
 ## Sweetalert2 for Nuxt.js
