@@ -1,4 +1,6 @@
-# DEPRECATED: PLEASE USE VUE-SWEETALERT2 AT: https://github.com/avil13/vue-sweetalert2
+## DEPRECATED
+
+Please use vue-sweetalert2 at: https://github.com/avil13/vue-sweetalert2
 
 
 
