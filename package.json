@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ImreC/nuxt-sweetalert2#readme",
   "dependencies": {
-    "sweetalert2": "7.x"
+    "sweetalert2": "9.x"
   },
   "devDependencies": {
       "babel-core": "^6.26.3",
